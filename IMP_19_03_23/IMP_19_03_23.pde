@@ -15,5 +15,9 @@ void viereck() {
 }
 
 void zeichneAlleRouten() {
-    
+    int xPosition = 0;
+    int yPosition = 0;
+    while(xPosition < width) {
+
+    }
 }
